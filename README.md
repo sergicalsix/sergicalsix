@@ -1,14 +1,8 @@
-# Resume
-
-> I'm a software engineer based in Barcelona 🌊 with 10 years of experience in the software industry.
-
 # ☎️ Contact information
 
 📧 Email address
 
-🐦 Twitter
 
-🔗 LinkedIn
 
 ---
 
@@ -26,30 +20,19 @@ Your description here
 
 ## 💻 Technology
 
-### Javascript ⭐️⭐️⭐️⭐️
-
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+### Python ⭐️⭐️⭐️⭐️
 
 ---
 
 ## 🗣 Languages
 
-### Spanish 🇪🇸🇦🇷
-
-Native speaker
 
 ---
 
 # 📜 Articles and Talks
 
-- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
 
 ---
 
 # 📚 Education
 
-## **Bachelor's Degree in Computer Systems Analysis**
-
-*2017 (unfinished due to Relocation)*
-
-ORT - Buenos Aires

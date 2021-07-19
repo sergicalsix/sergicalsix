@@ -1,7 +1,6 @@
 # ☎️ Contact information
 
-📧 Email address
-
+📧 Email address:kenp3434membertip1@gmail.com
 
 
 ---
@@ -9,11 +8,6 @@
 # **👩🏻‍💻** Work experience
 
 ## Title
-
-***Company**, Location – (Dates)*
-
-Your description here
-
 ---
 
 # 🛠 Skills

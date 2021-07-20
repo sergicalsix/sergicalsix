@@ -1,9 +1,4 @@
-# ☎️ Contact information
 
-📧 Email address:kenp3434membertip1@gmail.com
-
-
----
 
 # **👩🏻‍💻** Work experience
 
@@ -30,3 +25,13 @@
 
 # 📚 Education
 
+---
+# ☎️ Contact information
+
+📧 Email address:kenp3434membertip1@gmail.com
+
+
+---
+# About
+
+これは以下のテンプレートをもとに作成しました。

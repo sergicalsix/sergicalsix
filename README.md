@@ -1,6 +1,10 @@
 # Profile
 
-慶應義塾大学のシステム生物学研究室で、機械学習の新規アルゴリズムの研究を行っています。
+## Affiliation
+慶應義塾大学システム生物学研究室
+
+## Study
+機械学習の新規アルゴリズムの開発
 
 ---
 
@@ -42,4 +46,8 @@
 
 # ☎️ Contact information
 
-📧 Email address: kenp3434membertip1@gmail.com, shibuya@fun.bio.keio.ac.jp
+📧 Email address
+
+kenp3434membertip1@gmail.com, 
+
+shibuya@fun.bio.keio.ac.jp

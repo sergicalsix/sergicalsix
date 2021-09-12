@@ -1,9 +1,9 @@
 # Profile
 
-## Affiliation
+## 🎓 Affiliation
 慶應義塾大学システム生物学研究室
 
-## Study
+## 💻 Study
 機械学習の新規アルゴリズムの開発
 
 ---
@@ -22,33 +22,35 @@
 
 ## 💻 Technology
 
-### Python⭐️⭐️⭐️
+### Python⭐️⭐️⭐️⭐️
 研究を中心に、機械学習、データ解析、アプリ開発に用いています。
 
-### C⭐️⭐️
+### C⭐️⭐️⭐️
 
-大学の講義(2年間以上)で学びました。また所属する研究室で、C言語のCUIを作成しました。
+大学の講義(2年間以上)で学びました。また所属する研究室で、CUIを作成しました。
 
-### Java,SQL,JavaScript⭐️
+### JavaScript⭐️⭐️
+
+今年の6月から学びました。インターンシップでwebアプリを作成しました。
+
+### shell⭐️⭐️
+
+### Java,SQL,html,css⭐️
+
 
 # 📜 Ongoing
 
 - 毎日コミット(7月中旬から開始)
 - 修士研究(CRESTの研究に同じ)
 - 実践Django(https://www.shoeisha.co.jp/book/detail/9784798153964)
-- HTML, CSS , JS
-- GNN
-
+- GRIインターン
 
 
 
 # 📚 Stack
 
----
-
-- 研究で用いているコードのpush
-- アプリのコードのpush
-- サーバーにアプリをデプロイ
+----
+ 
 
 # ☎️ Contact information
 

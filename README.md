@@ -44,7 +44,7 @@
 - 修士研究(CRESTの研究に同じ)
 - 実践Django(https://www.shoeisha.co.jp/book/detail/9784798153964)
 - Django Rest Frameworkの教科書
-- GPSアプリの改良
+- GPSアプリ(https://github.com/sergicalsix/travel_map)の改良
 
 
 

@@ -31,8 +31,6 @@
 
 ### JavaScript
 
-今年の6月から学びました。5daysインターンシップでwebアプリを作成しました。
-
 ### shell(zsh) 
 
 ### Java,SQL,html,css

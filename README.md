@@ -29,21 +29,14 @@
 
 大学の講義(2年間以上)で学びました。また所属する研究室で、CUIを作成しました。
 
-### JavaScript
 
-### shell(zsh) 
-
-### Java,SQL,html,css
+### JS,SQL,HTML,CSS
 
 
 # 📜 Ongoing
 
 - 毎日コミット(7月中旬から開始)
 - 修士研究(CRESTの研究に同じ)
-- 実践Django(https://www.shoeisha.co.jp/book/detail/9784798153964)
-- Django Rest Frameworkの教科書
-- GPSアプリ(https://github.com/sergicalsix/travel_map)
-
 
 
 # 📚 Stack

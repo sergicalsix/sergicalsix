@@ -3,52 +3,43 @@
 ## 所属
 株式会社ARISE analytics
 
----
+## 職種
+データサイエンティスト
 
-# 学生時代に力を入れたこと
-- CRESTの研究
+## 技術
+
+### ⭐️⭐️⭐️: Python
+メイン言語です。
+
+### ⭐️⭐️: JS(React、Next.js)、C、SQL
+一通りのことはできます。専門性は高くないです。
+
+
+## 発信
+- Qiita
+
+https://qiita.com/sergicalsix
+
+- Zenn
+
+https://zenn.dev/sergicalsix
+
+## 学生時代に力を入れたこと
+- アルゴリズムの研究
 - ビジネスコンテスト
 - ハッカソ
 - バスケットボールサークルの主将
 - 塾講師,プログラミング講師のアルバイト
 
-# 技術
-
-## 💻 Technology
-
-### Python⭐️⭐️⭐️
-研究を中心に、機械学習、データ解析、アプリ開発に用いています。
-
-### C⭐️⭐️
-
-大学の講義(2年間以上)で学びました。また所属する研究室で、C言語のCUIを作成しました。
-
-### Java,SQL,JavaScript⭐️
-
-# 📜 Ongoing
-
-- 毎日コミット(7月中旬から開始)
-- 修士研究(CRESTの研究に同じ)
-- 実践Django(https://www.shoeisha.co.jp/book/detail/9784798153964)
-- HTML, CSS , JS
-- GNN
 
 
-
-
-# 📚 Stack
-
----
-
-- 研究で用いているコードのpush
-- アプリのコードのpush
-- サーバーにアプリをデプロイ
-
-# ☎️ Contact information
+## ☎️ Contact information
 
 📧 Email address
 
 kenp3434membertip1@gmail.com, 
+
+yusuke.shibuya@ariseanalytics.com
 
 shibuya@fun.bio.keio.ac.jp
 

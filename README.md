@@ -37,7 +37,7 @@ https://zenn.dev/sergicalsix
 
 📧 Email address
 
-kenp3434membertip1@gmail.com, 
+kenp3434membertip1@gmail.com
 
 yusuke.shibuya@ariseanalytics.com
 

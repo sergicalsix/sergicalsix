@@ -1,19 +1,9 @@
-# Profile
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergicalsix&theme=algolia)
 
-## 所属
-株式会社ARISE analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergicalsix&theme=aura_dark)
 
-## 職種
-データサイエンティスト
 
-## 技術
-
-### ⭐️⭐️⭐️: Python
-メイン言語です。
-
-### ⭐️⭐️: JS(React、Next.js)、C、SQL
-一通りのことはできます。専門性は高くないです。
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergicalsix&theme=aura_dark)
 
 ## 発信
 - Qiita
@@ -24,12 +14,6 @@ https://qiita.com/sergicalsix
 
 https://zenn.dev/sergicalsix
 
-## 学生時代に力を入れたこと
-- アルゴリズムの研究
-- ビジネスコンテスト
-- ハッカソン
-- バスケットボールサークルの主将
-- 塾講師,プログラミング講師のアルバイト
 
 
 

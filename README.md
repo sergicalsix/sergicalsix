@@ -16,7 +16,7 @@ https://zenn.dev/sergicalsix
 
 - note
 
-https://note.com/sergicalsix_
+https://note.com/sergicalsix_/
 
 
 
